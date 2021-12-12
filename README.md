@@ -1,5 +1,5 @@
-# html-site-outline
-https://iremuludirik.github.io/html-site-outline/
+# site-outline-Lorem
+https://iremuludirik.github.io/site-outline-Lorem/
 
 patika.dev html bölüm sonu çalışması
 
